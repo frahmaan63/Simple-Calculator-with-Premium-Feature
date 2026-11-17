@@ -7,7 +7,7 @@ This "Simple Calculator with Premium Features" is built using the Python program
 4. *If-Elif-Else Statement* - Digunakan dalam kalkulator basic atau premium untuk menyatakan pernyataan berdasarkan opsi fitur yang dipilih user
 5. *Recursive Functions* -> A feature within the premium Calculator that includes the Fibonacci sequence, factorials, and exponentiation.
 
-# How To Use It
+# How To Use
 The program will run in the VS Code terminal and follow these steps:
 1. Select the type of calculator you wish to use (Basic Calculator or Premium Calculator).
 2. If you choose the Basic Calculator, enter two numbers and an available operator; the calculation result will then be displayed.
