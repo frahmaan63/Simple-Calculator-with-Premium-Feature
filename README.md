@@ -8,7 +8,7 @@ This "Simple Calculator with Premium Features" is built using the Python program
 5. *Recursive Functions* -> A feature within the premium Calculator that includes the Fibonacci sequence, factorials, and exponentiation.
 
 # How To Use
-The program will run in the VS Code terminal and follow these steps:
+The program will run in VS Code terminal by following these steps:
 1. Select the type of calculator you wish to use (Basic Calculator or Premium Calculator).
 2. If you choose the Basic Calculator, enter two numbers and an available operator; the calculation result will then be displayed.
 3. If you choose the Premium Calculator, it is recommended to first select option 3 to redeem a code (using the code in `REEDEM_CODE`) afterward, you may select the specific feature you are going to use.
