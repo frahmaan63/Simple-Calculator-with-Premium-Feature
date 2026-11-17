@@ -1,5 +1,5 @@
 # Simple Calculator with Premium Feature
-Created by Fathur, This project was originally developed as an assignment for a Basic of Programming course.
+Created by Fathur, This project was originally developed as an assignment for Basic of Programming course.
 This "Simple Calculator with Premium Features" is built using the Python programming language and incorporates several data types, including:
 1. *Set* – used to store valid "redeem codes," which can be entered to unlock access to premium features.
 2. *Integer* – used in the basic calculator to represent whole numbers without decimal points.
