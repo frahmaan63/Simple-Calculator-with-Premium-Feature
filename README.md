@@ -5,6 +5,7 @@ This "Simple Calculator with Premium Features" is built using the Python program
 2. *Integer* – used in the basic calculator to represent whole numbers without decimal points.
 3. *Arithmetic Operators* – used to perform mathematical calculations such as addition, subtraction, multiplication, division, modulus, and floor division.
 4. *If-Elif-Else Statement* - Digunakan dalam kalkulator basic atau premium untuk menyatakan pernyataan berdasarkan opsi fitur yang dipilih user
+5. *Recursive Functions* -> A feature within the premium Calculator that includes the Fibonacci sequence, factorials, and exponentiation.
 
 # How To Use It
 The program will run in the VS Code terminal and follow these steps:
