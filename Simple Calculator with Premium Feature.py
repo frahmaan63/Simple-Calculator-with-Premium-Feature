@@ -2,7 +2,7 @@
 # FR's Python Project
 
 import math
-REEDEM_CODE = {"ARCHIMEDES63", "PHYTAGORAS92"}  # List of Valid Reedem Code
+REDEEM_CODE = {"ARCHIMEDES63", "PHYTAGORAS92"}  # List of Valid Reedem Code
 
 def basic_calculator():
     number1 = int(input("First Number : "))
@@ -54,7 +54,7 @@ def main():
         print("\n=== CALCULATOR ===")
         print("1. Basic Calculator")
         print("2. Premium Calculator")
-        print("3. Reedem Premium Code")
+        print("3. Redeem Premium Code")
         print("0. Exit")
         menu = input("Select: ")
 
@@ -64,10 +64,10 @@ def main():
             if premium:
                 premium_calculator()
             else:
-                print("This Feature Is Exclusive Only for Premiums, Please Reedem Premium Code By Selecting Menu 3.")
+                print("This Feature Is Exclusive Only for Premiums, Please Redeem Premium Code By Selecting Menu 3.")
         elif menu == "3":
             code = input("Premium Code : ").strip()
-            if code in REEDEM_CODE:
+            if code in REDEEM_CODE:
                 premium = True
                 print("Premium Feature Available")
             else:
