@@ -8,12 +8,12 @@ def basic_calculator():
     number1 = int(input("First Number : "))
     operator = input("Operator (+, -, *, /, %, //): ")
     number2 = int(input("Second Number: "))
-    if operator == "+": print("Hasil:", number1 + number2)
-    elif operator == "-": print("Hasil:", number1 - number2)
-    elif operator == "*": print("Hasil:", number1 * number2)
-    elif operator == "/": print("Hasil:", number1 / number2 if number2 != 0 else "Cannot be divided by 0")
-    elif operator == "%": print("Hasil:", number1 % number2)
-    elif operator == "//": print("Hasil:", number1 // number2 if number2 != 0 else "Cannot be divided by 0")
+    if operator == "+": print("Result :", number1 + number2)
+    elif operator == "-": print("Result :", number1 - number2)
+    elif operator == "*": print("Result :", number1 * number2)
+    elif operator == "/": print("Result :", number1 / number2 if number2 != 0 else "Cannot be divided by 0")
+    elif operator == "%": print("Result :", number1 % number2)
+    elif operator == "//": print("Result :", number1 // number2 if number2 != 0 else "Cannot be divided by 0")
     else: print("Unknown Operator")
 
 def premium_calculator():
@@ -40,13 +40,13 @@ def premium_calculator():
             print(a, end=" ")
             a, b = b, a + b
     elif select == "8":
-        def faktorial(n):
+        def factorial(n):
             if n == 1:
                 return(n)
             else:
-                return(n*faktorial(n-1))
+                return(n*factorial(n-1))
         n = int(input("Input Numbers :"))
-        print("%d! = %d" % (n, faktorial(n)))
+        print("%d! = %d" % (n, factorial(n)))
 
 def main():
     premium = False
