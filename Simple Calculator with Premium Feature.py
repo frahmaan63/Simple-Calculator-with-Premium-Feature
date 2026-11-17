@@ -2,7 +2,7 @@
 # FR's Python Project
 
 import math
-REDEEM_CODE = {"ARCHIMEDES63", "PHYTAGORAS92"}  # List of Valid Reedem Code
+REDEEM_CODE = {"ARCHIMEDES63", "PHYTAGORAS92"}  # List of Valid Redeem Code
 
 def basic_calculator():
     number1 = int(input("First Number : "))
