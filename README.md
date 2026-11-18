@@ -10,7 +10,7 @@ This project is built using Python programming language and incorporates several
 
 # How To Use
 The program will run in VS Code terminal by following these steps:
-1. Select the type of calculator you wish to use (Basic Calculator or Premium Calculator).
-2. If you choose the Basic Calculator, enter two numbers and an available operator, the calculation result will then be displayed.
-3. If you choose the Premium Calculator, it is recommended to first select option 3 to redeem a code (using the code in `REDEEM_CODE`) afterward, you may select the specific feature you wish to use.
+1. Select the type of calculator you want to use (Basic Calculator or Premium Calculator).
+2. If you choose the Basic Calculator, input two numbers and choose an available operator, the calculation result will then be displayed.
+3. If you choose the Premium Calculator, it's recommended to first select option 3 to redeem a code (using the code in `REDEEM_CODE`) afterward, you may select the specific feature you want to use.
 4. Press CTRL + C to stop the program when you are finished.
